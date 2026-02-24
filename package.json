@@ -2,7 +2,7 @@
   "name": "e-commerce",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://anfas-afk.github.io/BUY_IT",
+  "homepage": "https://anfas-afk.github.io/BUY.IT",
   "type": "module",
   "scripts": {
     "dev": "vite",
